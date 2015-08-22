@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DataAnalysis()
+comment0.text=\r\n\ Default\ Constructor\r\n
+comment1.params=inArr
+comment1.target=DataAnalysis(int[])
+comment1.text=\r\n
+comment2.params=
+comment2.target=void\ mean()
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=void\ median()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=void\ mode()
+comment4.text=\r\n\ \r\n
+comment5.params=
+comment5.target=void\ range()
+comment5.text=\r\n\ \r\n
+numComments=6

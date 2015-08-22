@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinNode()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=elem
+comment1.target=LinNode(java.lang.Object)
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=LinNode\ getNext()
+comment3.params=nLn
+comment3.target=void\ setNext(LinNode)
+comment4.params=elem
+comment4.target=void\ setElement(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ getElement()
+numComments=6
